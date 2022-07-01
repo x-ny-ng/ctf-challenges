@@ -1,0 +1,11 @@
+# replace "|" with "{" or "}"
+
+n = "N"
+a = "O"
+l = "R"
+E = "N"
+i = "H"
+t = "Y"
+W = "T"
+r = "|"
+e = "P"
